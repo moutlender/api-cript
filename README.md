@@ -22,6 +22,7 @@ $ git clone https://github.com/moutlender/api-cript.git
 
 Acessar a pasta principal do projeto via prompt de comando:
 $ cd api-cript
+
 Na pasta raiz, dê duplo clique no arquivo index.html para abrir o site no navegador.
 
 
